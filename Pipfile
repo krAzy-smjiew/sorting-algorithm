@@ -9,6 +9,7 @@ pytest-xdist = "*"
 pytest-parallel = "*"
 
 [packages]
+matplotlib = "*"
 
 [requires]
 python_version = "3.8"
